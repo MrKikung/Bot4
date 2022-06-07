@@ -2,5 +2,5 @@
 	"ip":"game2.falix.cc",
 	"port": "26648",
 	"name": "MrBot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
